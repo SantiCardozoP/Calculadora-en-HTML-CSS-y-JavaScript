@@ -1,0 +1,82 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #58a9de;
+    font-size: sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.calculadora{
+    width: 330px;
+    height: 550px;
+    margin: 0 auto;
+    top: 30px;
+    background-color: #bec9c9;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+}
+.titulo{
+    text-align: center;
+    padding: 10px;
+}
+.ingreso{
+    border: none;
+    background-color: white;
+    outline: none;
+    text-align: center;
+    height: 50px;
+    width: 275px;
+    margin: 10px 20px;
+    font-size: 35px;
+}
+.teclado{
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.boton{
+   
+    width: 40px;
+    height: 40px;
+    margin: 15px;
+    float: left;
+    border-radius: 20%;
+    border-width: 0;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+   
+}
+#clear{
+    font-size: 15px;
+    background-color: #70d6ff;
+}
+#suma{
+    font-size: 15px;
+    background-color: #70d6ff;
+}
+#multiplicacion{
+    font-size: 15px;
+    background-color: #70d6ff;
+}
+#resta{
+    font-size: 15px;
+    background-color: #70d6ff;
+}
+#igual{
+    font-size: 15px;
+    background-color: #70d6ff;
+    width: 100px;
+}
+#borrar{
+    font-size: 15px;
+    background-color: #70d6ff;
+}
+#porcentaje{
+    font-size: 15px;
+    background-color: #70d6ff;
+}
+#division{
+    font-size: 15px;
+    background-color: #70d6ff;
+}
